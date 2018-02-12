@@ -22,7 +22,7 @@ Travel gear list for work, backpacking, hiking, camping, etc.
 
 ## Travel
 
-* Electrical power plug adapter: [Tensun Universal Travel Adapter with 4 2.4A USB ports](https://www.amazon.com/Universal-Travel-Adapter-Charger-International/dp/B01KVARX12
+* Electrical power plug adapter: [Tensun Universal Travel Adapter with 4 2.4A USB ports](https://www.amazon.com/Universal-Travel-Adapter-Charger-International/dp/B01KVARX12)
 * Packing: [Eagle Creek](https://eaglecreek.com) packs
 
 
