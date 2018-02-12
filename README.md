@@ -28,12 +28,12 @@ Travel gear list for work, backpacking, hiking, camping, etc.
 
 ## Backpacking & Hiking
 
-* Backpack: [Arc'teryx](https://arcteryx.com
-* Trekking poles: [REI Co-op Flash Carbon Trekking Poles](https://www.rei.com/product/108377/rei-co-op-flash-carbon-trekking-poles-pair
+* Backpack: [Arc'teryx](https://arcteryx.com)
+* Trekking poles: [REI Co-op Flash Carbon Trekking Poles](https://www.rei.com/product/108377/rei-co-op-flash-carbon-trekking-poles-pair)
 * Hiking boots: waterproof Goretext
 * Water: [Platypus DuoLock SoftBottle Collapsible Water Bottle](https://www.platy.com/bottles-storage/duolock-softbottle-1) - [Amazon](https://www.amazon.com/Platypus-DuoLock-SoftBottle-Collapsible-Bottle/dp/B078JVYKKH), [REI](https://www.rei.com/product/122093/platypus-softbottle-water-bottle-with-duolock-cap-34-fl-oz)
 * Water filter: [MSR TrailShot Pocket-Sized Water Filter](https://www.msrgear.com/water/trailshot) - [Amazon](https://www.amazon.com/MSR-TrailShot-Pocket-Sized-Water-Filter/dp/B06WWQC6RX), [REI](https://www.rei.com/product/114975/msr-trailshot-pocket-sized-water-filter)
-* First aid kit: [REI backpacker first-aid kit](https://www.rei.com/rei-garage/product/133213/rei-co-op-backpacker-first-aid-kit
+* First aid kit: [REI backpacker first-aid kit](https://www.rei.com/rei-garage/product/133213/rei-co-op-backpacker-first-aid-kit)
 
 
 ## Camping
@@ -62,7 +62,7 @@ Travel gear list for work, backpacking, hiking, camping, etc.
 
 ## Winter
 
-* Heavy coat: [Patagonia](https://patagonia.com
+* Heavy coat: [Patagonia](https://patagonia.com)
 * Medium coat: [Patagonia](https://patagonia.com) puffer
 * Heavy gloves
 * Goggles
