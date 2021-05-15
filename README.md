@@ -2,7 +2,21 @@
 
 Adventure gear list for traveling, hiking, camping, etc.
 
-* []()
+* [Traveling](#traveling)
+  * [Remote work](#remote-work)
+  * [Power adapters](#power-adapters)
+  * [Clothing](#clothing)
+  * [Misc](#misc)
+* [Hiking and backpacking](#hiking-and-backpacking)
+  * [Hiking](#hiking)
+  * [Backpacking](#backpacking)
+* [Picnicing](#picnicing)
+* [Camping ](#camping)
+  * [Shelter](#shelter)
+  * [Sleeping](#sleeping)
+  * [Campsite](#campsite)
+* [Cooking](#cooking)
+* [Winter](#winter)
 
 
 ## Traveling
@@ -53,6 +67,7 @@ Misc:
 
 * Hats: baseball cap, wool beanie
 
+
 ### Misc
 
 * Packing: [Eagle Creek](https://eaglecreek.com) packs
@@ -73,31 +88,43 @@ Misc:
 ## Hiking and backpacking
 
 
-Hiking:
+### Hiking
 
-* Hiking boots: [Danner Lookout Side-Zip 8 Waterproof](http://www.danner.com/men/all-footwear/ookout-side-zip-8-black.html) 
+Hiking boots: 
+
+* [Danner Lookout Side-Zip 8 Waterproof](http://www.danner.com/men/all-footwear/ookout-side-zip-8-black.html) 
 &bull; [Amazon](https://www.amazon.com/Danner-Lookout-Side-Zip-Military-Tactical/dp/B00TE4FW9M)
 &bull; GORE-TEX waterproof
 &bull; (1502 grams)
 
-* Trekking poles: [REI Co-op Flash Carbon Trekking Poles](https://www.rei.com/product/108377/rei-co-op-flash-carbon-trekking-poles-pair)
+Trekking poles: 
+
+* [REI Co-op Flash Carbon Trekking Poles](https://www.rei.com/product/108377/rei-co-op-flash-carbon-trekking-poles-pair)
 &bull; telescoping (420 grams)
-
-Backpacks:
-
-* [Nomatic: 40L Travel Bag](https://www.nomatic.com/pages/travel-bag-2017): daily carry (2000 grams)
-
-* [Arc'terix: Bora AR 63 Tall](https://arcteryx.com/us/en/shop/mens/bora-ar-63-backpack): large and weatherproof (2340 grams)
 
 Water:
 
-* Water: [Platypus DuoLock SoftBottle Collapsible Water Bottle](https://www.platy.com/bottles-storage/duolock-softbottle-1) 
+* Water bottle filter: [GRAYL Ultralight Compact Purifier](https://grayl.com/collections/grayl-water-purifiers/products/ultralight-compact-purifier-camo-black)
+&bull; [Amazon](https://www.amazon.com/GRAYL-Ultralight-Purifier-Filter-Bottle/dp/B087YSF6X4)
+&bull; [REI](https://www.rei.com/product/898758/grayl-ultralight-compact-purifier-bottle)
+&bull; (80 Grams)
+
+* Water bottle bag: [Platypus DuoLock SoftBottle Collapsible Water Bottle](https://www.platy.com/bottles-storage/duolock-softbottle-1) 
 &bull; [Amazon](https://www.amazon.com/Platypus-DuoLock-SoftBottle-Collapsible-Bottle/dp/B078JVYKKH)
 &bull; [REI](https://www.rei.com/product/122093/platypus-softbottle-water-bottle-with-duolock-cap-34-fl-oz)
 
 * Water filter: [MSR TrailShot Pocket-Sized Water Filter](https://www.msrgear.com/water/trailshot) 
 &bull; [Amazon](https://www.amazon.com/MSR-TrailShot-Pocket-Sized-Water-Filter/dp/B06WWQC6RX)
 &bull; [REI](https://www.rei.com/product/114975/msr-trailshot-pocket-sized-water-filter)
+
+
+### Backpacking
+
+Backpacks:
+
+* [Nomatic: 40L Travel Bag](https://www.nomatic.com/pages/travel-bag-2017): daily carry (2000 grams)
+
+* [Arc'terix: Bora AR 63 Tall](https://arcteryx.com/us/en/shop/mens/bora-ar-63-backpack): large and weatherproof (2340 grams)
 
 Misc:
 
@@ -118,6 +145,35 @@ Tools:
 * Flare gun
 
 * Whistle
+
+
+## Picnicing
+
+Hard cooler: 
+
+* [YETI Roadie 20](https://www.yeti.com/hard-coolers/roadie-20-cooler/YR20.html) 
+&bull; [Amazon](https://www.amazon.com/YETI-Roadie-20-Cooler-White/dp/B004YIBWNS)
+&bull; [REI](https://www.rei.com/product/852486/yeti-roadie-cooler)
+
+Soft cooler: 
+
+* [YETI Hopper TWO 40 Portable](https://www.yeti.com/soft-coolers/hopper-two-40-cooler/YHOPTWO40.html) 
+&bull; [Amazon](https://www.amazon.com/YETI-Hopper-Portable-Cooler-Tahoe/dp/B06W2N58B4)
+&bull; [REI](https://www.rei.com/product/117211/yeti-hopper-two-40-soft-cooler)
+
+Table: 
+
+* [Helinox: Table One](http://www.helinox.com.au/camp-tables/table-one-hard-top)
+&bull; [Amazon](https://www.amazon.com/Helinox-Table-One-Hard-Top/dp/B01C7J9SHM)
+&bull; [REI](https://www.rei.com/product/896429/helinox-table-one-camping-table-hard-top)
+&bull; folding hard top table (690 grams)
+
+Chairs: 
+
+* [Helinox: Chair Zero](https://helinox.com/products/chair-zero) 
+&bull; [Amazon](https://www.amazon.com/Helinox-Chair-Zero-Camping/dp/B079HBDXSK)
+&bull; [REI](https://www.rei.com/product/109587/helinox-chair-zero) 
+&bull; folding chair (490 grams)
 
 
 ## Camping 
@@ -166,7 +222,20 @@ Camp blankets that snap together:
 &bull; (213 cm × 127 cm, 272 grams)
 
 
-### Cooking
+### Campsite
+
+* Trowel
+
+Bears:
+
+* [BearVault: BV450 Food Container](https://bearvault.com/product-info/)
+&bull; bear-resistant storage 
+&bull; (940 grams)
+
+* Bear spray
+
+
+## Cooking
 
 Stove:
 
@@ -197,52 +266,6 @@ Misc:
 * Fire: Flint &amp; steel; waterproof matches, lighter.
 
 * Kitchen: cutting board, scraper, sponge, dishrag.
-
-Bears:
-
-* [BearVault: BV450 Food Container](https://bearvault.com/product-info/)
-&bull; bear-resistant storage 
-&bull; (940 grams)
-
-* Bear spray
-
-
-### Site
-
-* Trowel
-
-
-### Camp coolers
-
-Hard-side cooler: 
-
-* [YETI Roadie 20](https://www.yeti.com/hard-coolers/roadie-20-cooler/YR20.html) 
-&bull; [Amazon](https://www.amazon.com/YETI-Roadie-20-Cooler-White/dp/B004YIBWNS)
-&bull; [REI](https://www.rei.com/product/852486/yeti-roadie-cooler)
-
-Soft-side cooler: 
-
-* [YETI Hopper TWO 40 Portable](https://www.yeti.com/soft-coolers/hopper-two-40-cooler/YHOPTWO40.html) 
-&bull; [Amazon](https://www.amazon.com/YETI-Hopper-Portable-Cooler-Tahoe/dp/B06W2N58B4)
-&bull; [REI](https://www.rei.com/product/117211/yeti-hopper-two-40-soft-cooler)
-
-
-### Camp furnishings
-
-Table: 
-
-* [Helinox: Table One](http://www.helinox.com.au/camp-tables/table-one-hard-top)
-&bull; [Amazon](https://www.amazon.com/Helinox-Table-One-Hard-Top/dp/B01C7J9SHM)
-&bull; [REI](https://www.rei.com/product/896429/helinox-table-one-camping-table-hard-top)
-&bull; folding hard top table (690 grams)
-
-Chair: 
-
-* [Helinox: Chair Zero](https://helinox.com/products/chair-zero) 
-&bull; [Amazon](https://www.amazon.com/Helinox-Chair-Zero-Camping/dp/B079HBDXSK)
-&bull; [REI](https://www.rei.com/product/109587/helinox-chair-zero) 
-&bull; folding chair (490 grams)
-
 
 
 ## Winter
